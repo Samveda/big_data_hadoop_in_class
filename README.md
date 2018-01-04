@@ -1,7 +1,6 @@
-# Big Data and Hadoop
-
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
+# Big Data and Hadoop
 Large and complex data, difficult to process them using traditional data processing applications as it is computationally difficult to reveal
 patterns, trends, and associations, especially relating to human behavior and interactions. Apache Hadoop is an open-source software framework used for distributed storage and processing of dataset of big data using the MapReduce programming model.
 
