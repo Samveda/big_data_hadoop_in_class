@@ -24,6 +24,9 @@ patterns, trends, and associations, especially relating to human behavior and in
 - Understand the motivation for Big Data
 - Understand the storage layer underlying Big Data - HDFS
 - Store and retrieve data in HDFS
+
+
+## Agenda
 - Big Data Motivation
 - Introduction to Hadoop & Ecosystem
 - Setup CLoudera environment
