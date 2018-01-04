@@ -31,9 +31,10 @@ patterns, trends, and associations, especially relating to human behavior and in
 - Interaction with HDFS
 
 ## Slides
+<embed {pdf=https://raw.githubusercontent.com/commit-live-students/big_data_hadoop_in_class/master/notebooks/Hadoop_Day-1a-Introduction.pdf" type="application/pdf|500|300|pdfjs} >
 
 
-{pdf=https://raw.githubusercontent.com/commit-live-students/big_data_hadoop_in_class/master/notebooks/Hadoop_Day-1a-Introduction.pdf" type="application/pdf|500|300|pdfjs} 
+
 
 
 [Big Data and Hadoop Introduction](https://raw.githubusercontent.com/commit-live-students/big_data_hadoop_in_class/master/notebooks/Hadoop_Day-1a-Introduction.pdf)
