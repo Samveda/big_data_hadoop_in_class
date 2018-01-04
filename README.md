@@ -31,8 +31,8 @@ patterns, trends, and associations, especially relating to human behavior and in
 - Interaction with HDFS
 
 ## PDF
-[Big Data](https://github.com/commit-live-students/big_data_hadoop_in_class/blob/master/notebooks/Hadoop_Day-1a-Introduction.pdf)
-
+[Big Data and Hadoop Introduction](https://github.com/commit-live-students/big_data_hadoop_in_class/blob/master/notebooks/Hadoop_Day-1a-Introduction.pdf)
+[Hadoop and Map Reduce](https://github.com/commit-live-students/big_data_hadoop_in_class/blob/master/notebooks/Hadoop_Day-2-%20Introduction%20YARN%20Hadoop.pdf)
 
 ## Post Reads
 1. [Comparing the top Hadoop distributions](https://www.networkworld.com/article/2369327/software/comparing-the-top-hadoop-distributions.html)
