@@ -1,4 +1,4 @@
-# HADOOP
+# HADOOP and MAP REDUCE
 
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
@@ -30,8 +30,8 @@ patterns, trends, and associations, especially relating to human behavior and in
 - Setup CLoudera environment
 - Interaction with HDFS
 
-## Slides
-Check the Jupyter Notebook in the top right of the screen
+## PDF
+[Big Data]https://github.com/commit-live-students/big_data_hadoop_in_class/blob/master/notebooks/Hadoop_Day-1a-Introduction.pdf[/embed]
 
 
 ## Post Reads
