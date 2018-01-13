@@ -6,7 +6,7 @@ patterns, trends, and associations, especially relating to human behavior and in
 
 ## At a glance
 * In Class Instruction: 4 Hours
-  * In Class code along Dataset: war_and_peace
+  * In Class code along [Dataset](https://github.com/commit-live-students/big_data_hadoop_in_class/tree/master/data): war_and_peace
   
 ## In Class Activity
 
